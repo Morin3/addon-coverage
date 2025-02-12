@@ -82,6 +82,6 @@
     "espree": "^9.6.1",
     "istanbul-lib-instrument": "^6.0.1",
     "test-exclude": "^6.0.0",
-    "vite-plugin-istanbul": "^3.0.1"
+    "vite-plugin-istanbul": "^7.0.0"
   }
 }
