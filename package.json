@@ -40,11 +40,11 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
-    "@babel/core": "^7.12.3",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.12.1",
     "@babel/preset-react": "^7.12.5",
     "@babel/preset-typescript": "^7.13.0",
-    "@storybook/core-common": "^7.0.0-alpha.34",
+    "@storybook/core-common": "^7.0.0",
     "@types/convert-source-map": "^2.0.3",
     "@types/istanbul-lib-instrument": "^1.7.7",
     "@types/test-exclude": "^6.0.2",
