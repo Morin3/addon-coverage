@@ -36,6 +36,6 @@
     "@storybook/react": "^7.4.2",
     "@storybook/react-webpack5": "^7.4.2",
     "@storybook/testing-library": "^0.2.1",
-    "storybook": "^7.4.2"
+    "storybook": "^8.2.0"
   }
 }
