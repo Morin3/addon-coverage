@@ -23,7 +23,7 @@
     "@storybook/addon-coverage": "link:../..",
     "@storybook/react": "7.4.2",
     "@storybook/react-vite": "7.4.2",
-    "@storybook/test-runner": "^0.13.0",
+    "@storybook/test-runner": "^0.16.0",
     "@storybook/testing-library": "^0.2.1",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
